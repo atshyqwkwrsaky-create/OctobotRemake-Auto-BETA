@@ -1,7 +1,28 @@
 {
-  "PORT": 23173,
-  "RESTART_TIME": 20,
-  "OWNER": "61556251846264",
-  "ADS": "🔔 ANNOUNCEMENT🔔\n\n🔴OctobotRemake Auto is Not for sale🔥\n🔴If u found bug  or not working cmd \n\nPls.Feedback here:\nhttps://fb.com/OctobotRemake.Owner",
-  "ADS_TIMER": "8"
+  "BOTNAME": "✧ SAIKO BOT ✧",
+  "ADMIN_NAME": "مغومي",
+  "FACEBOOK_ADMIN": "100081948980908",
+  "PREFIX": "/",
+  "ADMINBOT": ["100081948980908"],
+  "language": "ar",
+  "allowInbox": true,
+  "autoMarkRead": true,
+  "autoMarkDelivery": true,
+  "APPSTATEPATH": "./appstate.json",
+  "DATABASE_PATH": "./Fca_Database/database.sqlite",
+  "GROUP_DATA_PATH": "./groupData.json",
+  "FCAOption": {
+    "forceLogin": true,
+    "listenEvents": true,
+    "logLevel": "silent",
+    "selfListen": false,
+    "autoMarkRead": true,
+    "autoMarkDelivery": true,
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
+  },
+  "daily": {
+    "cooldownTime": 86400000,
+    "rewardCoin": 1000
+  },
+  "version": "2.0.0"
 }
